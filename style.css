@@ -1,0 +1,55 @@
+body{
+    text-align: center;
+}
+.cos{
+    color: yellow;
+}
+span{
+    color: green;
+}
+form input { width: 100%;
+    font-size: 20px;
+   
+}
+table,th, td{
+    border: 5px solid yellow;
+    border-collapse: collapse;
+    text-align: center;
+    font-size: 25px;
+    margin-top: 15px;
+    color: white;
+}
+table{
+    width: 100%;
+}
+body{
+    background-color: rgb(28, 28, 70);
+}
+.ko{
+    color: white;
+}
+.qu{
+    color: white;
+}
+
+button{
+    width: 350px;
+    background-color: yellow;
+    font-size: 20px;
+    border-radius: 20px;
+    border:none
+   }
+img{
+    width: 300px;
+}
+
+
+
+
+
+
+
+
+
+
+
